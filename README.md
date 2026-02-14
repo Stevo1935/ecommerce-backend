@@ -32,4 +32,5 @@ PORT=3001
 
 ## Frontend Repository
 
-The frontend for this API is at: https://github.com/YOUR_USERNAME/ecommerce-frontend
+
+The frontend for this API is at: https://github.com/Stevo1935/ecommerce-frontend
